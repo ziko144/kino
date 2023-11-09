@@ -1,0 +1,2 @@
+# kino
+Global page
